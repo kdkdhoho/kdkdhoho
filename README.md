@@ -1,10 +1,10 @@
 # Hello! I'm Dongho🤲
 
 ## About me
-- **이름: 김동호(1998.05.07)** 🙆‍♂️
-- **MBTI: I(E)SFJ 😊</br>**
-        I가 49%면 E가 51%..!
-- **좋아하는 것**</br>1. 운동 & 건강🏋️‍♂️ 2. 강아지🐶  3. 여행가서 바다보는 것!✈
+- **이름**: 김동호 / Kim Dong-Ho 🙆‍♂️
+- **생년월일**: 1998.05.07
+- **MBTI**: ESFJ 😊
+- **좋아하는 것**: 운동🏋️‍♂️, 강아지🐶, 여행가서 바다보는 것!✈, 맛있는 거 먹기🥩
 - **가치관**: 남부끄럽지 않은 인생을 살자!
 
 ![kdkdhoho's github stats](https://github-readme-stats.vercel.app/api?username=kdkdhoho&show_icons=true)
