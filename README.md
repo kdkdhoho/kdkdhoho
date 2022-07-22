@@ -1,7 +1,7 @@
-# Hello! I'm Dongho🤲
+# Hello! I'm Dongho🙆‍♂️
 
 ## About me
-- **이름**: 김동호 / Kim Dong-Ho 🙆‍♂️
+- **이름**: 김동호 / Kim Dong-Ho 
 - **생년월일**: 1998.05.07 (25)
 
 ![kdkdhoho's github stats](https://github-readme-stats.vercel.app/api?username=kdkdhoho&show_icons=true)
