@@ -2,10 +2,7 @@
 
 ## About me
 - **이름**: 김동호 / Kim Dong-Ho 🙆‍♂️
-- **생년월일**: 1998.05.07
-- **MBTI**: ESFJ 😊
-- **좋아하는 것**: 운동🏋️‍♂️, 강아지🐶, 여행가서 바다보는 것!✈, 맛있는 거 먹기🥩
-- **가치관**: 남부끄럽지 않은 인생을 살자!
+- **생년월일**: 1998.05.07 (25)
 
 ![kdkdhoho's github stats](https://github-readme-stats.vercel.app/api?username=kdkdhoho&show_icons=true)
 [![kdkdhoho's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kdkdhoho&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kdkdhoho)
